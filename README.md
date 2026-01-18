@@ -1,3 +1,8 @@
+モデルの目標を明確に説明（なぜこれを選んだのか）
+何が難しくどのように改善したか
+NotebookLMを使用する
+コードの改善にはGoogle Colabを使用する
+
 論文1「[Revisiting Deep Learning Models for Tabular Data](http://ar5iv.labs.arxiv.org/html/2106.11959)」
 Transformerの原理を表形式データに応用する基礎理論。
 
